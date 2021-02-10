@@ -2,7 +2,6 @@
 
 ## Plain REST API CRUD with Spring Boot 2 and PostgreSQL.
 
-[![Build Status](https://travis-ci.org/OKaluzny/spring-boot-rest-api-postgresql.svg?branch=master)](https://travis-ci.org/OKaluzny/spring-boot-rest-api-postgresql)
 
 ### Technology stack:
 
